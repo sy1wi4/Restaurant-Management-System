@@ -1,6 +1,7 @@
 # Restaurant-Management-System :fork_and_knife: :spaghetti: :fried_shrimp:
 Database that helps automate restaurants day to day operations. This system is to handle orders, reservations, discounts, restrictions, etc. 
 There are different options for individual or company clients.
+
 More details you can find here in [documentation](https://github.com/sy1wi4/Restaurant-Management-System/blob/main/documentation.pdf).
 
 ## General info :information_source:
