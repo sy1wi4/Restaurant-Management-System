@@ -4,6 +4,10 @@ There are different options for individual or company clients.
 
 More details you can find here in [documentation](https://github.com/sy1wi4/Restaurant-Management-System/blob/main/documentation.pdf).
 
+## Authors:
+* [Barbara Wojtarowicz](https://github.com/basiav)
+* [Sylwia Marek](https://github.com/sy1wi4)
+
 ## General info :information_source:
 * take-away and on-site ordering service
 * possibility of advance table reservation for at least two people
